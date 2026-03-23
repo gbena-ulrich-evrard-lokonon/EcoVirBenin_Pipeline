@@ -33,4 +33,4 @@ This *R* pipeline performs cleaning, standardization, and organization of a biom
 install.packages(c("readxl","dplyr","tidyr","readr"))
 
 # Run the pipeline
-source("pipeline_clean_sort.R")
+source("EcoVirBenin_clean_sort.R")
