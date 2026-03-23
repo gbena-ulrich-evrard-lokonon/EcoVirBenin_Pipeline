@@ -1,0 +1,5 @@
+# Required R packages for EcoVirBenin Pipeline
+readxl
+dplyr
+tidyr
+readr
